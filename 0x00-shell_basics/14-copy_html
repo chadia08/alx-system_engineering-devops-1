@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -nu *.html ..
+=======
+cp -nu * .html /..
+>>>>>>> 16e08a0076ee4ec59bbfe63e27e4bbcbfc6e6c6b
